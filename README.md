@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadi Nema</h1>
 <h3 align="center">Currently Learning Cloud Technologies. Also I have a keen interest in Machine Learning and LLMs.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi-nema&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-nema" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadi-nema" alt="aadi-nema" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning , Google Cloud**
