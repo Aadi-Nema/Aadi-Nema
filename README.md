@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Google Cloud**
 
-- 📝 I occasionaly write articles on [Sports and Technologies](Sports and Technologies)
+- 📝 I occasionaly write articles on **Sports and Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
